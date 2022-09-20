@@ -27,7 +27,7 @@ print(C)
 
 
 ## Output:
-(/![Screenshot from 2022-09-20 20-19-12](https://user-images.githubusercontent.com/113497404/191291445-04d3db21-b100-4078-9abc-44087bab50c2.png)
+![Screenshot from 2022-09-20 20-19-12](https://user-images.githubusercontent.com/113497404/191291445-04d3db21-b100-4078-9abc-44087bab50c2.png)
 
 
 
